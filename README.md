@@ -22,7 +22,7 @@ The bird generally falls down due to gravity, we have to use 'space' or 'mouse' 
 
 * we have to move through the pipes in this game like shown in the below screenshot.
 
-![](/images/fb_game.png)
+![](/images/fb_game.jpeg)
 
 * If we hit the obstacle, the game ends and we get the screen with restart button and our score. To restart we have to use 'space' and after restart your best score gets updated.
 
